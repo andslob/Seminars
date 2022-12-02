@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task4\\Task4.csproj": {}
+    "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task4\\Task4.csproj": {
+    "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task4\\obj\\",
+        "projectPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\slobo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\slobo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

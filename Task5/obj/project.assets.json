@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Andrey\\.nuget\\packages\\": {}
+    "C:\\Users\\slobo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task5\\Task5.csproj",
+      "projectUniqueName": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task5\\Task5.csproj",
       "projectName": "Task5",
-      "projectPath": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task5\\Task5.csproj",
-      "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrey\\Desktop\\Control_Version\\Seminars\\Task5\\obj\\",
+      "projectPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task5\\Task5.csproj",
+      "packagesPath": "C:\\Users\\slobo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\slobo\\GeekBrains\\Control_Version\\Seminars\\Task5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Andrey\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\slobo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
