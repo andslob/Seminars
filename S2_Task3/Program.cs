@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.Clear();
+
+string? s = Console.ReadLine();
+
+
+Console.WriteLine(Convert.ToInt32(s[0].ToString())); // нумерация строк
+
+
+
+
