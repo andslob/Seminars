@@ -14,11 +14,7 @@ else
 
 
 
-// task 16
 
-Console.Clear();
-Console.Write("Введите 1-ое число: ");
-int n = Convert.ToInt32(Console.R
 // task 16
 
 Console.Clear();
