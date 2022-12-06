@@ -13,3 +13,12 @@ double y2 = Convert.ToDouble(Console.ReadLine());
 double dist = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
 
 Console.WriteLine(Math.Round(dist, 2));
+
+
+
+// отброс после запятой
+
+
+Console.Clear();
+double n = 1.56;
+Console.WriteLine(n - n % 1);
