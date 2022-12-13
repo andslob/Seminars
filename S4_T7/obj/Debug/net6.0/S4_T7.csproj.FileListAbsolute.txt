@@ -1,0 +1,15 @@
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\bin\Debug\net6.0\S4_T7.exe
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\bin\Debug\net6.0\S4_T7.deps.json
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\bin\Debug\net6.0\S4_T7.runtimeconfig.json
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\bin\Debug\net6.0\S4_T7.dll
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\bin\Debug\net6.0\S4_T7.pdb
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.csproj.AssemblyReference.cache
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.AssemblyInfoInputs.cache
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.AssemblyInfo.cs
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.csproj.CoreCompileInputs.cache
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.dll
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\refint\S4_T7.dll
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.pdb
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\S4_T7.genruntimeconfig.cache
+C:\Users\slobo\GeekBrains\Control_Version\Seminars\S4_T7\obj\Debug\net6.0\ref\S4_T7.dll
