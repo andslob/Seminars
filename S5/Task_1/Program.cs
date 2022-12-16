@@ -1,4 +1,4 @@
-﻿// 31 task
+﻿// Task 31
 
 void InputArray(int[] array)
 {
@@ -29,4 +29,3 @@ int[] array = new int[n];
 InputArray(array);
 Console.WriteLine($"[{string.Join(", ", array)}]");
 ReleaseArray(array);
-
