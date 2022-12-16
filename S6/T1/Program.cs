@@ -1,4 +1,5 @@
-﻿void InputArray(int[] array)
+﻿// 39
+void InputArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
         array[i] = new Random().Next(1, 11); // [1, 10]
