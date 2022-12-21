@@ -1,8 +1,7 @@
 ﻿// Task 17
 
 Console.Clear();
-Console.Write("Введите координату x: ");
-Console.Write("Введите координату y: ");
+Console.Write("Введите четверть: ");
 int n = Convert.ToInt32(Console.ReadLine());
 if (n == 1 || n == 2)
     Console.WriteLine("y > 0");
